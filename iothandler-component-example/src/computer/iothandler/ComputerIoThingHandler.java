@@ -1,7 +1,7 @@
 /**
  * This is an example of a thing
  * For testing IoT Handler, we consider our system as a thing
- * Actuator and sensor functions are defined using lambda functions
+ * Actuator and sensor functions are defined using lambda expressions
  */
 package computer.iothandler;
 
