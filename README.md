@@ -6,4 +6,4 @@ IoT Handler has two main parts: middleware part and core package part
 
 A middleware is a running java application that can load IoT thing coponent jar files. It loads the component and makes CoAP REST interfaces for all operations offered by this thing. For that, IoT handler uses Calfornium CoAP Server to manage REST resources.
 
- The second part is the core pakage. It provides classes and interfaces that allow to define thing behavior. Each component should implement the Interface "IoThingHandler" to: create a thing, specify their operations, parameters and the code that interacts with the physical thing.
+ The second part is the core pakage. It provides classes and interfaces that allow define thing behavior. Each component should implement the Interface "IoThingHandler" to: create a thing, specify their operations, parameters and the code that interacts with the physical thing.
