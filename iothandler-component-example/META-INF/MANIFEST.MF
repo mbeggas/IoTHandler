@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: Mounir BEGGAS
+Implementation-Title: computer.iothandler.ComputerIoThingHandler
+Specification-Title: Internet of Things object that handle computer information
+Specification-Version: 1.0.0
